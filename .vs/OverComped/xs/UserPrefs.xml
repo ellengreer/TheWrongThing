@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{E16D744A-1CD6-3C92-8E18-EBAFCA4C61B7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FeatureBox.cs">
+    <Files>
+      <File FileName="Assets/Scripts/IngredientList.cs" Line="17" Column="36" />
+      <File FileName="Assets/Scripts/Ingredient.cs" Line="29" Column="1" />
+      <File FileName="Assets/Scripts/JustinScript.cs" Line="31" Column="27" />
+      <File FileName="Assets/Scripts/FeatureBox.cs" Line="64" Column="21" />
+      <File FileName="Assets/Scripts/Pips.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OverComped" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="FeatureBox.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="OverComped" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7611490b-8ced-42d7-9bbb-35e840b32f6a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
